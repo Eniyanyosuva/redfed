@@ -219,7 +219,7 @@ We welcome contributions! Here's how you can help:
 5. Open a Pull Request
 
 ### Contribution Guidelines
-- Follow existing code style
+- Follow existing code style 
 - Write tests for new features
 - Update documentation
 - Be respectful and inclusive

@@ -11,6 +11,7 @@ redfed = "GLi1SSdbhQndoRYECdwHBfJixY7g2cUjpbLj3YKVi1aU"
 [registry]
 url = "https://api.apr.dev"
 
+
 [provider]
 cluster = "localnet"
 wallet = "~/.config/solana/id.json"

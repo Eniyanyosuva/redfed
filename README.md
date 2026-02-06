@@ -11,7 +11,7 @@ RedFed is a Web3 social platform that enables fast, transparent, and immutable c
 ## 🌟 Features
 
 ### Core Functionality
-- **Decentralized Threads** - Create censorship-resistant discussions stored on-chain 
+- **Decentralized Threads** - Create censorship-resistant discussions stored on-chain
 - **Community Voting** - Upvote/downvote system for community-driven content curation
 - **Web3 Identity** - Connect with Solana wallets (Phantom, Solflare, etc.)
 - **Real-time Updates** - Instant interactions leveraging Solana's speed

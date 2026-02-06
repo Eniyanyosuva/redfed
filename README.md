@@ -9,7 +9,7 @@ RedFed is a Web3 social platform that enables fast, transparent, and immutable c
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 
 ## 🌟 Features
-
+ 
 ### Core Functionality
 - **Decentralized Threads** - Create censorship-resistant discussions stored on-chain
 - **Community Voting** - Upvote/downvote system for community-driven content curation

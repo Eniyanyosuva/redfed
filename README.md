@@ -1,6 +1,6 @@
 # RedFed 🔴
 
-**A decentralized, censorship-resistant social platform built on Solana** 
+**A decentralized, censorship-resistant social platform built on Solana**  
 
 RedFed is a Web3 social platform that enables fast, transparent, and immutable community discussions powered by blockchain technology. Every thread, vote, and interaction lives on-chain, ensuring true ownership and freedom of expression.
 

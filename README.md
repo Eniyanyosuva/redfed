@@ -17,6 +17,7 @@ RedFed is a Web3 social platform that enables fast, transparent, and immutable c
 - **Real-time Updates** - Instant interactions leveraging Solana's speed
 - **Transparent Governance** - All votes and content immutably recorded on blockchain
 
+
 ### Technical Highlights
 - ⚡ **Fast Transactions** - Sub-second confirmation times on Solana
 - 💰 **Low Fees** - Fraction-of-a-cent costs per interaction
